@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered to the High Court of Parliament, by the Worsted-weavers in Norwich and Norfolk, why worsteads and other Norwich stuffs shoud not be subject either to subsedy or aulnage.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28767</idno><idno type="EEBO-CITATION">99885722</idno>
+  <idno type="VID">185546</idno>
+  <idno type="EEBO-PROQUEST">2240888682</idno>
+  
+            <idno type="STC">Wing R557bA</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.14[93]</idno>
+            <idno type="STC">ESTC R224880</idno>
+            <idno type="PROQUEST">ocm99885722</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885722e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28767)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185546)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:3[93])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered to the High Court of Parliament, by the Worsted-weavers in Norwich and Norfolk, why worsteads and other Norwich stuffs shoud not be subject either to subsedy or aulnage.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Norwich? :</pubPlace>
+                  <date>1663]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Weaving --  England --  Early works to 1800.</term>
+               <term type="topical_term">Weavers --  England --  Early works to 1800.</term>
+               <term type="topical_term">Wool industry --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Woolen goods industry --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb facs="tcp:185546:1"/>
+            <pb facs="tcp:185546:1"/>
+            <head>Reasons Humbly offered to the High Court of Parliament, by the Worsted-weavers in <hi>Norwich</hi> and <hi>Norfolk,</hi> why Worsteads and other <hi>Norwich</hi> Stuffs should not be subject either to Subsedy or Aulnage.</head>
+            <div type="part">
+               <head>Not to Subsedy or Custome.</head>
+               <p n="1">1. FIrst, There was no Custom due upon Woolls by the common Law, but 3. <hi>Ed.</hi> 1. the commons granted to the King 6 s. 8 d. <hi>per</hi> Sack of Wool and this was not imposed generally upon all Wools, but only upon such as were Transported, and that doth appear by a Patent of the same King where it is called <hi>Novum Consuetudinem</hi> (and so not by the common Law) <hi>&amp; de laius Regnum exeuntibus, Rotl. pat.</hi> 3. <hi>Ed.</hi> 1. N. 1. <hi>Co. Instit.</hi> part 2. fol. 59.531. part 4. fol. 29. <hi>Dyer</hi> fol. 165. Sir. <hi>John Davyes</hi> reports fol. 9.</p>
+               <p>And the Reasons why it was granted upon Exportation was.</p>
+               <p n="1">1. Because Woolls or other Commodities could not be caried out of the Kingdom without the Kings Conge or Licence.</p>
+               <p n="2">2. Because of the wastage and protection the King gave to the Marchants, and Woolls upon the Seas against Pirates and the Enemies of the Realme, but if those Woolls were caried by Sea from port to port within the Kingdom or by Land, from one place to another, or were draped into cloth or wrought into manufacture in the Nation there was no Custome or Subsedy due by Law <hi>Co. Instit.</hi> 2. part fol. 60.</p>
+               <p>And the same King <hi>Ed.</hi> 1. afterwards imposing 2 l. upon a Sack of Wooll, complaint being thereof made in Parliament. 25. <hi>Ed.</hi> 1. he re<g ref="char:EOLhyphen"/>leassed the same new Imposition, saving to himself the Custome of Wools granted by the Commons <hi>vide</hi> confirmation <hi>Cartarum de Liberta Angle</hi> 25. <hi>Ed.</hi> 1. <hi>ca.</hi> 7, by all which it appear there was no other Custome due but what was granted by Parliament.</p>
+               <p n="2">2. Secondly, <hi>Ed.</hi> 3.4. <hi>Regni sui</hi> at his own charge brought out of <hi>Gant</hi> in <hi>Flanders</hi> many Cloath-workers, and maintained them at his own charge out of the Exchequer by whom the working of cloath in this Kingdom was set up, and in the 11. <hi>Ed.</hi> 3. and by several other Acts of Par<g ref="char:EOLhyphen"/>liament the Exportation of Wooll was prohibited, and by some of them made Felony, and so the Custome of 6 s. 8 d. <hi>per</hi> Sack for Exportation ceased.</p>
+               <p>And 25. <hi>Ed.</hi> 3. <hi>ca.</hi> 1. when the trade of making of Cloth grew great and the same Cloaths were defective and deceiptfully wrought contrary to the Rates set by Parliament, for the prevention of those evils the <hi>Aulnager</hi> was appointed.</p>
+               <p>And Wools being prohibited to be exported and the 6 s. 8 d. <hi>per</hi> Sack ceased 27. <hi>Ed.</hi> 3. <hi>ca.</hi> 4. the Parliament granted to the King a subsedy of such particular Cloathes only of such an assize as in the same Act is mentioned, which is to be solde, over the Customes thereof due that is such as then indured for a time, and were granted by Parliament <hi>Co. Instit.</hi> 2 part fol. 60.</p>
+               <p n="3">3. Thirdly, The several Statutes which injoyn the Duty of Subsedy and Aulnage six them alwaies upon Cloaths as 17. <hi>R.</hi> 2. <hi>ca.</hi> 2. which saith, Every man might make and put to sale Cloaths as wel Kersies as others of such length and breadth as him please, paying Aulnage, Subsedy, and other Duties, where the word <hi>Other</hi> must be meant only of Cloaths, and cannot be extended to <hi>Norwich</hi> Stuffs, which differ in kind from Cloth.</p>
+               <p>Neither can the Statutes of 7 <hi>H,</hi> 4. cap. 10. or of 11 <hi>H.</hi> 4. cap. 6. be construed to extend to <hi>Norwich</hi> Stuffs, but only to Cloth, and the rather because in the Statute 11 <hi>H.</hi> 6. cap. 1. where the two former Statutes are resited and mentioning that divers differences had arisen, how farr the word <hi>Cloth</hi> did extend, it was there declared, that the word <hi>Cloth</hi> in the said Statutes rehearsed, should be understood of Broad cloaths, and Broad Dozens, and not of other cloaths and pieces of cloaths called Streats.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> If it be Objected that the Statute of the 17. <hi>R.</hi> 2. cap. 3. saith, <hi>That single Worstead shall pay Customes and Subsedies.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>1</label> That Statute doth only extend to single Worsteads, and not to double Worsteads and other Stuffs.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>2</label> That Duty was to be paid for single Worsteads transported, and not otherwise.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>3</label> By the Statute 14. <hi>H.</hi> 4. cap. 47. the Artificers and Merchants of Worsteads may sell their single Worsteads to any place or Per<g ref="char:EOLhyphen"/>sons being of the Kings Amiry, notwithstanding any inhibition to the contrary, <hi>Co. Instit. part</hi> 4. <hi>fol.</hi> 257. which must be un<g ref="char:EOLhyphen"/>derstood, free from paying Subsedies and Customs otherwise this Statute was in vain, and granted no more than that of 17 <hi>R.</hi> 2.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>4</label> By the Statute of 7. <hi>E.</hi> 4. cap. 1. the Worstead-weavers in <hi>Norwich</hi> and <hi>Norfolk</hi> were incorporated and put under a Regulation for making of Stuffs and no mention made either in that Statute or of that of 14 <hi>H.</hi> 4. of any Custom or Subsedy to be paid for the same, neither did they ever pay any such Custom or Subsedy, nor is there any Decree in the Excrequer against them for the same; Neither are they within the equity of the Statute of 27. <hi>E.</hi> 3. to pay proportionable Subsedies, they being cleerly out of that Statute, and not within any other, And therefore hope by a new Law they shall not be made liable to any now, considering the Woolls they are made of, are not fit or useful for Cloth.</p>
+            </div>
+            <div type="part">
+               <head>Not to Aulnage.</head>
+               <p n="1">1. First, Because they are not mentioned by any Statute whatsoever to be under the Aulnager, and it plainly appears that the appointing of that Officer was only for measuring and searching of Cloth, whether they held the assize set by Statute.</p>
+               <p n="2">2. Secondly, In 22. <hi>E.</hi> 3. there was granted by the King to <hi>Robert Pooly</hi> the Office of measuring of Worsteads of <hi>Norwich</hi> which is there cal<g ref="char:EOLhyphen"/>led, a new Office, with a Fee, and at the Petition of the Commons it was resolved in Parliament to be void and accordingly was made void and nul, <hi>Co. Instit. part</hi> 2. <hi>fol.</hi> 534.</p>
+               <p n="3">3. Thirdly, By the said Statute of 7. <hi>E.</hi> 4. cap. 1. the Weavers of <hi>Norwich</hi> and <hi>Norfolk</hi> are incorporated and have eight Wardens who have power to Search, Measure, and Seal all sorts of <hi>Norwich</hi> Stuffs, and seiz such as are defective, and no mention of the Aulnager to have any thing to do with Stuffs, which have been under Regulation 194 yeers and never any question concerning the Aulnage upon them til 2 <hi>Ja.</hi>
+               </p>
+               <p n="4">4. Fourthly in 2. <hi>Ja.</hi> it was certified by all the Judges of <hi>England</hi> in these Words, that the Aulnage of <hi>Norwick</hi> Stuffs was not grantable, nor fit to be granted, neither was there ever any Aulnage of <hi>Norwich</hi> Stuffs <hi>Co. Instit.</hi> part 2. <hi>Fol.</hi> 62. And therefore they hope that after such a Grant of Aulnage upon <hi>Norwich</hi> Stuffs made nul by Parliament, and such Certificate made by all the Judges, that it is not grantable, nor sit to be granted: this Parliament will not make them liable thereunto.</p>
+            </div>
+            <div type="part">
+               <head>And that for these Reasons.</head>
+               <p n="1">1. First, Because by the said Statute 7. <hi>Ed.</hi> 4. and other Statutes since, the very Essential Work of the Aulnager which is to search Mea<g ref="char:EOLhyphen"/>sure, and seal such Wares as are good, and seize such as are bad, is put into the hands of the Wardens, and others of the Trade, by whom it hath been governed near 200 years. And if they should be liable to the Aulnager now, then shall they be under a double Power, the Wardens and Assistants of the Trade, who know the Laws and Rules, and when a piece is defective, and when not. And the Aulnager who know neither, who for the most part are mean inconsiderable Persons, not able to answer for their Miscarriages, and left to that Latitude by this Bill, as that they can take from the People what they please, and no Provision made for punishing their Abuses.</p>
+               <p n="2">2. It will be very prejudicial to the Stuffs, after they have passed the Wardens Seal, and be folded, and made up for Sale, then to be cut open, measured, and ruffelled by the Aulnager, beside the trouble and loss of time in making them up again, and attending first upon one, and then upon the other, which oftentimes will loose the poor mans Market, who hath not Mony to buy Yarn to clad his Lomb for another piece, till he be pay'd for that he hath taken off.</p>
+               <p n="3">3. It will destroy Invention for he that by his Study and Industry, doth contrive a new sort of Stuff, the Aulnager will seize the first piece if it pass not under his Seal, and so discovered, and others take the Benefit of the Inventers pains, and he thereby discouraged, which will be very prejudicial to the Trade.</p>
+               <p n="4">4. If he that make false Wares, get the Aulnagers Seal to it, and can escape but the Wardens Seizure, then it shal go forth for good Stuffs, and cozen the people who know not the Wardens seale from the Aulnagers and bring a Disparagement upon the Commodity.</p>
+               <p n="5">5. At the best it will only become a Burden and Charge to the people without any Commodity, neither can he any waies benefis the Pub<g ref="char:EOLhyphen"/>lick, because there are above 60 several sorts of Stuffs under various and several Rules and Orders, and almost daily new sorts invented, which none have Skill of, but the Makers and Dealers in them, and they being of several Lengths, Breadths, and Weights; how can the Rates be set on every size?</p>
+               <p n="6">6. By these and other Evils which will come thereby, it will indanger the Destroying of the Worsted Trade, which imploye many hundreds of thousands on Work, make great variety of serviceable Stuffs inrich the Kingdom, work up those Woolls which are not fit for Cloath, paye a great Proportion in his Majesties Customs for Exportation, and will hinder his Majesties Revenue ten times more then can be raised by the Aulnage.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
